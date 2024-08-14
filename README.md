@@ -8,6 +8,9 @@ Sometimes *Microsoft SQL Server Management Studio* hangs due to RAM constraints,
 
 
 **XGraph** library by SKAN (Suresh Kumar A N)
+
 **MemoryLoad** by [jNizM](https://github.com/jNizM)
+
 **EmptyMem** by Heresy
+
 **FreeMemory** by SKAN (Suresh Kumar A N)
