@@ -5,7 +5,7 @@ Sometimes *Microsoft SQL Server Management Studio* hangs due to RAM constraints,
 
 ![AutoHotkey_oxF6Y6aFQE](https://github.com/user-attachments/assets/1912d652-e162-4223-960b-2689a9d145bc)
 ![AutoHotkey_o78Eoru72h](https://github.com/user-attachments/assets/de4adc37-e6b6-48d7-9260-608ac0cc216c)
-
+[![Stream Deck Integration](https://img.youtube.com/vi/saVLW6He1Ns/0.jpg)](https://youtube.com/shorts/saVLW6He1Ns)
 
 **XGraph** library by SKAN (Suresh Kumar A N)
 
